@@ -147,7 +147,8 @@ if has("gui_running")
     set guifont=courier_new:h12:b:cANSI
   endif
 else
-  colorscheme solarized
+"  colorscheme solarized
+  colorscheme desert
 endif
 
 " Set utf8 as standard encoding and en_US as the standard language
