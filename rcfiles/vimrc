@@ -1,7 +1,3 @@
-" https://github.com/tpope/vim-pathogen#faq
-source ~/.yzsh/bundle/vim-pathogen/autoload/pathogen.vim
-execute pathogen#infect("~/.yzsh/bundle/{}")
-
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " Maintainer: 
 "       Amir Salihefendic
